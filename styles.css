@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    padding: 0 48px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
