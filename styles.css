@@ -138,8 +138,8 @@ header {
 .info-small img {
   border: 4px solid #3882f6;
   border-radius: 14px;
-  min-width: 150px;
-  min-height: 150px;
+  width: 150px;
+  height: 150px;
   margin: 0;
 }
 
@@ -192,12 +192,13 @@ header {
   color: #f9faf8;
 }
 
-.call-text, .call-title{
+.call-text,
+.call-title {
   margin: 0;
 }
 
 .call-text {
-  color:#e2e7eb;
+  color: #e2e7eb;
 }
 
 .call-btn .signup-btn {
